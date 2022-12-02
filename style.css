@@ -79,7 +79,7 @@ h1 {
   width: 100%;
 }
 .card:hover {
-  transform:translate3d(-2deg);
+  transform:rotate(-2deg) ;
 }
 .card .card-content {
   padding: 20px 30px;
